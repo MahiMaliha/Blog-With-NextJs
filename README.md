@@ -1,1 +1,1 @@
-# Blog-With-NextJ
+# Blog-With-Next
